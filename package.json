@@ -1,0 +1,13 @@
+{
+  "name": "send-me-money",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A funny interactive website with an escaping NO button",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
